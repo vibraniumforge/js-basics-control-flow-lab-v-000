@@ -11,3 +11,16 @@ function scuberGreetingForFeet(feet) {
     return 'No can do.'
   }
 }
+
+function ternaryCheckCity(city) {
+  if (city ==="New York City") {
+    return "Ok, sounds good."
+  }
+  if (city ==="Pittsburgh") {
+    return "No can do.."
+  }
+  if (city ==="New York City") {
+    return "Ok, sounds good."
+  }
+  
+}
