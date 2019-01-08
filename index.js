@@ -17,10 +17,10 @@ function ternaryCheckCity(city) {
     return "Ok, sounds good."
   }
   if (city ==="Pittsburgh") {
-    return "No can do.."
+    return "No can do."
   }
-  if (city ==="New York City") {
-    return "Ok, sounds good."
+  else {
+    return "No go."
   }
-  
+
 }
