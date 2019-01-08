@@ -8,7 +8,6 @@ function scuberGreetingForFeet(feet) {
     return 'I will gladly take your thirty bucks.'
   }
   if (feet >= 2500) {
-    console.log(feet)
     return 'No can do.'
   }
 }
